@@ -1,0 +1,20 @@
+shortcuts:
+
+toggles terminal: ctrl + `
+toggles terminal: cmd + `
+clear terminal: ctrl + L
+
+commands:
+
+cd directory - change directory
+clear | cls - clears our screen or terminal
+ls | dir - shows current directories files and folder
+touch file_name - creates a file with the given name
+mkdir folder_name ... - create a folder with the given name
+rm | del file_name - removes a file or a folder by the given name
+rm -rf folder_name - removes all files and folders within the specified folder
+mv src dest - moves a file or folder to the specified directory. alternatively, renames a file.
+cp | copy src dest - copies a file or folder.
+code dir - opens vscode in the directory specified.
+open / explorer dest - opens a directory in either explorer / finder.
+vim - opens the vim text editor in the terminal.
